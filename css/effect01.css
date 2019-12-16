@@ -1,0 +1,439 @@
+@charset "utf-8";
+#backtop {
+	position: relative;
+	height: 25px;
+	width: 100%;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #CCC;
+	border-bottom-color: #E1E1E1;
+	background-color:#ECECEC;
+}
+#t-welcomemessage {
+	font-size: 14px;
+	height: 25px;
+	width: 250px;
+	margin-left: 230px;
+	position: relative;
+	z-index: 100;
+	line-height: 25px;
+	float: left;
+}
+#t-hr {
+	height: 25px;
+	width: 60px;
+	position: relative;
+	float:right;
+	line-height:25px;
+	text-align:center;
+	font-size:14px;
+	color:#000;
+}
+#t-hr a{
+	color: #000;
+	text-decoration: none;
+}
+#t-hr a:hover{
+	color: #09F;
+}
+#t-exit {
+	float: right;
+	height: 25px;
+	width: 60px;
+	margin-right: 170px;
+	position: relative;
+	line-height: 25px;
+	text-align: center;
+	font-size: 14px;
+	
+}
+#t-exit a{
+	color: #000;
+	text-decoration: none;
+}
+#t-exit a:hover {
+	color:#09F;
+}
+#navigation {
+	position: relative;
+	height: 85px;
+	left: 0px;
+	right: 0px;
+	background-color: #FFF;
+}
+#nev-sign {
+	float: left;
+	height: 85px;
+	width: 100px;
+	margin-left: 230px;
+	position: relative;
+	background-image: url(../Images/School%20badge03.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+}
+#nev-nev07 {
+	height: 70px;
+	width: 90px;
+	margin-right: 170px;
+	position: relative;
+	line-height: 70px;
+	text-align: left;
+	font-size: 18px;
+	float: right;
+	font-family:"黑体";
+}
+#nev-nev07 a{
+	color:#000;
+	text-decoration:none;
+}
+#nev-nev07 a:hover{
+	color:#09F;
+}
+#nev-nev07 span {
+	display:none;
+}
+#nev-nev07 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev06 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height:70px;
+	text-align: left;
+	font-size:18px;
+	float: right;
+	font-family:"黑体";
+}
+#nev-nev06 a{
+	color:#000;
+	text-decoration:none;
+}
+#nev-nev06 a:hover{
+	color:#09F;
+}
+#nev-nev06 span {
+	display:none;
+}
+#nev-nev06 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev05 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height:70px;
+    text-align: left;
+	font-size:18px;
+	float: right;
+	font-family:"黑体";
+}
+#nev-nev05 a{
+	color:#000;
+	text-decoration:none;
+}
+#nev-nev05 a:hover{
+	color:#09F;
+}
+#nev-nev05 span {
+	display:none;
+}
+#nev-nev05 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev04 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height:70px;
+    text-align: left;
+	font-size:18px;
+	float: right;
+	font-family:"黑体";
+}
+#nev-nev04 a{
+	color:#000;
+	text-decoration:none;
+}
+#nev-nev04 a:hover{
+	color: #09F;
+}
+#nev-nev04 span {
+	display:none;
+}
+#nev-nev04 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev03 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height:70px;
+	text-align: left;
+	font-size:18px;
+	float: right;
+	font-family:"黑体";
+}
+#nev-nev03 a{
+	color:#000;
+	text-decoration:none;
+}
+#nev-nev03 a:hover{
+	color: #09F;
+}
+#nev-nev03 span {
+	display:none;
+}
+#nev-nev03 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev02 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height: 70px;
+	text-align: left;
+	font-size: 18px;
+	float: right;
+    color:#09F;
+	font-family:"黑体";
+}
+#nev-nev02 a {
+	color: #000;
+	text-decoration:none;
+}
+#nev-nev02 a:hover{
+	color: #09F;;
+}
+#nev-nev02 span {
+	display:none;
+}
+#nev-nev02 a:hover span {
+	display:block;
+	float:left;
+}
+#nev-nev01 {
+	height: 70px;
+	width: 90px;
+	position: relative;
+	line-height: 70px;
+	text-align: left;
+	font-size: 18px;
+	float: right;
+	color: #000;
+	font-family:"黑体";
+}
+#nev-nev01 a {
+	color: #000;
+	text-decoration: none;
+}
+#nev-nev01 a:hover{
+	color: #09F;
+}
+#nev-nev01 span {
+	display:none;
+}
+#nev-nev01 a:hover span {
+	display:block;
+	float:left;
+}
+#backbanner {
+	position: relative;
+	height: 150px;
+	left: 0px;
+	right: 0px;
+	background-image: url(../Images/xygk.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #E1E1E1;
+}
+#backmain {
+	position: relative;
+	height: 1000px;
+	width: 100%;
+}#bm-nev {
+	float: left;
+	height: 350px;
+	width: 300px;
+	margin-left: 100px;
+	margin-top: 50px;
+	position: relative;
+}
+#bm-main {
+	position: relative;
+	height: 800px;
+	width: 800px;
+	margin-left:100px;
+	float:left;
+	margin-top:50px;
+}
+#bm-main-dec {
+	position: relative;
+	height: 60px;
+	width: 800px;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #0099FF;
+	font-size: 36px;
+	line-height: 60px;
+	text-align: center;
+	font-family: "黑体";
+	background-color: #EEE;
+}
+#bm-main-words {
+	position: relative;
+	height: 750px;
+	width: 800px;
+	background-color: #EEE;
+	font-size: 20px;
+}
+#bm-nev-01 {
+	position: relative;
+	height: 50px;
+	width: 300px;
+	line-height:50px;
+	text-align:center;
+	font-size:24px;
+	background-color:#ECECEC;
+}
+#bm-nev-02 {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 30px;
+	position: relative;
+	line-height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 10px 10px 10px 10px;
+	text-align:center;
+}
+#bm-nev-02 a {
+	color:#000;
+	text-decoration:none;
+}
+#bm-nev-02 a:hover {
+	color:#09F;
+	font-weight:100;
+}
+#bm-nev-02 a {
+	color:#000;
+	text-decoration:none;
+}
+#bm-nev-03 {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 30px;
+	position: relative;
+	line-height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 10px 10px 10px 10px;
+	text-align:center;
+}
+#bm-nev-03 a {
+	color:#000;
+	text-decoration:none;
+}
+#bm-nev-03 a:hover {
+	color:#09F;
+	font-weight:100;
+}
+#bm-nev-04 {
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 30px;
+	position: relative;
+	line-height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 10px 10px 10px 10px;
+	text-align:center;
+}
+#bm-nev-04 a {
+	color:#000;
+	text-decoration:none;
+}
+#bm-nev-04 a:hover {
+	color:#09F;
+	font-weight:100;
+}
+#bm-nev-05{
+	float:left;
+	height: 40px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 30px;
+	position: relative;
+	line-height: 40px;
+	background-color: #F0F0F0;
+	border-radius: 10px 10px 10px 10px;
+	text-align:center;
+}
+#bm-nev-05 a {
+	color:#000;
+	text-decoration:none;
+}
+#bm-nev-05 a:hover {
+	color:#09F;
+	font-weight:100;
+}#bm-pic {
+	float: left;
+	height: 350px;
+	width: 200px;
+	margin-top: -350px;
+	margin-left: 100px;
+	position: relative;
+	background-image: url(../Images/xy.png);
+}
+#back-bottom {
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 100%;
+	background-color: #E5E5E5;
+}
+#bb-01 {
+	float: left;
+	height: 20px;
+	width: 320px;
+	margin-left: 640px;
+	margin-top: 25px;
+	position: relative;
+	font-size: 14px;
+	text-align: center;
+	padding: 5px;
+}
+#bb-01 a {
+	color:#000;
+	text-decoration:none;
+}
+#bb-01 a:hover {
+	color: #09F;
+}
+#bb-02 {
+	float: left;
+	height: 30px;
+	width: 200px;
+	margin-left: 700px;
+	position: relative;
+	text-align: center;
+	font-size: 14px;
+	line-height: 30px;
+}
+#bb-02 a {
+	color:#000;
+	text-decoration:none;
+}
+#bb-02 a:hover {
+	color:#09F;
+}

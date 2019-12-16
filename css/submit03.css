@@ -1,0 +1,25 @@
+@charset "utf-8";
+.style01 {
+	width:790px;
+	height:500px;
+	text-align: left;
+	background-color:rgb(255,255,255,0.5);
+	font-size:26px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#E5E5E5;
+}
+.style02 {
+	background-color: #EFEFEF;
+	border-radius:0px;
+	width:150px;
+	height:30px;
+	text-align:center;
+	margin-left:300px;
+	border:none;
+	font-family: "宋体";
+}
+.style02:hover {
+	background-color:rgb(0,153,255,0.7);
+	font-weight:200;
+}

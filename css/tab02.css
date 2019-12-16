@@ -1,0 +1,130 @@
+@charset "utf-8";
+#tab01 {
+	position: absolute;
+	height: 140px;
+	width: 90px;
+	left: 0px;
+	top: 70px;
+	background-color:rgba(255,255,255,0.5);
+	z-index:100;
+}
+#tab01-01 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	font-size: 14px;
+}
+#tab01-01 a {
+	color:#000;
+	text-decoration:none;
+}
+#tab01-02 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	font-size: 14px;
+}
+#tab01-02 a{
+	color:#000;
+	text-decoration:none;
+}
+#tab02 {
+	position: absolute;
+	height: 140px;
+	width: 90px;
+	left: 0px;
+	top: 70px;
+	background-color:rgba(255,255,255,0.5);
+	z-index:100;
+}
+#tab02-01 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	font-size: 14px;
+}
+#tab02-01 a {
+	color:#000;
+	text-decoration:none;
+}
+#tab02-02 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	font-size: 14px;
+}
+#tab02-02 a {
+	color:#000;
+	text-decoration:none;
+}
+#tab03 {
+	position: absolute;
+	height: 140px;
+	width: 90px;
+	left: 0px;
+	top: 70px;
+	background-color:rgba(255,255,255,0.5);
+	z-index:100;
+}
+#tab03-01 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	font-size: 14px;
+}
+#tab03-01 a {
+	color:#000;
+	text-decoration:none;
+}
+#tab03-02 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	font-size: 14px;
+}
+#tab03-02 a {
+	color:#000;
+	text-decoration:none;
+}
+
+#tab04 {
+	position: absolute;
+	height: 140px;
+	width: 90px;
+	left: 0px;
+	top: 70px;
+	background-color:rgba(255,255,255,0.5);
+	z-index:100;
+}
+#tab04-01 {
+	position: relative;
+	height: 70px;
+	width: 90px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	font-size: 14px;
+}
+#tab04-01 a {
+	color:#000;
+	text-decoration:none;
+}
+#tab04-02{
+	position: relative;
+	height: 70px;
+	width: 90px;
+	font-size: 14px;
+}
+#tab04-02 a {
+	color:#000;
+	text-decoration:none;
+}
